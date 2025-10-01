@@ -1,4 +1,6 @@
-.vs/
-.pyproj
-.user
-.sln
+*.vs/
+*.pyproj
+*.user
+*.sln
+*.vcxproj
+*.filters
